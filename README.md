@@ -1,7 +1,7 @@
 # Anna_Mothobi
 ## My Projects and Social details
 
-````markdown name=README.md
+````README.md
 # Hi there, I'm Anna 👋
 
 I'm a passionate **Data Analyst student** on a journey to become the best in my field. My projects are proof that I can build robust data warehouses, perform in-depth analysis, and create business-oriented visuals that drive insights.
@@ -32,7 +32,9 @@ I am a student on a journey to become the best data analyst. My projects are pro
 - 🏃‍♀️ I participate every year in 10km obstacle running challenges
 
 ## 🔗 Connect with Me
- 
+
+- Github :[https://github.com/AnnaM079]
+- LinkedIn:[https://www.linkedin.com/in/goitsimodimo-mothobi-29821625a/]
 📧 mothobiag@gmail.com
 
 
