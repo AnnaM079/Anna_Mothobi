@@ -7,6 +7,7 @@
 I'm a passionate **Data Analyst student** on a journey to become the best in my field. My projects are proof that I can build robust data warehouses, perform in-depth analysis, and create business-oriented visuals that drive insights.
 
 ## 🚀 Skills & Tools
+###CERTIFICATES :[https://github.com/AnnaM079/Anna_Mothobi/tree/main/Certificates]
 
 - **SQL Server & PostgreSQL**: Data modeling, ETL, analytics
 - **Python**: Data processing, automation, and analysis
@@ -36,6 +37,8 @@ I am a student on a journey to become the best data analyst. My projects are pro
 - Github :[https://github.com/AnnaM079]
 - LinkedIn:[https://www.linkedin.com/in/goitsimodimo-mothobi-29821625a/]
 📧 mothobiag@gmail.com
+
+
 
 
 ---
