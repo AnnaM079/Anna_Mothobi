@@ -2,7 +2,7 @@
 ## My Projects and Social details
 
 ````README.md
-# Hi there, I'm Anna 👋
+# Hi there, I'm Anna 👋RESUME:[https://github.com/AnnaM079/Anna_Mothobi/blob/main/Resume/Annah%20Mothobi%20Resume.pdf]
 
 I'm a passionate **Data Analyst student** on a journey to become the best in my field. My projects are proof that I can build robust data warehouses, perform in-depth analysis, and create business-oriented visuals that drive insights.
 
